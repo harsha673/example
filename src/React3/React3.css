@@ -1,0 +1,6 @@
+h1 {
+    margin-bottom: 30px;
+}
+table,thead,th,td {
+    border: 1px solid black;
+}
